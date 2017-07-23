@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.down_file_ui">
+
+    <application android:allowBackup="true" android:label="@string/app_name"
+        android:supportsRtl="true">
+
+        <activity android:name="com.example.down_file_ui.activity.DownLoadActivity"/>
+    </application>
+
+</manifest>
